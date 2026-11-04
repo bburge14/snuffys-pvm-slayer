@@ -2,6 +2,10 @@
 
 Each version's changes, newest first.
 
+## 1.2.0 (2026-11-04)
+
+- Settings: names and choices fit the sidebar (shorter labels and names, saved keys unchanged), and the settings test now lays out each plugin's panel at the sidebar's width and fails on anything cut short
+
 ## 1.1.4 (2026-11-03)
 
 - Planner: GE buy limits in Timers (how much of each limit is used, when it resets, and whether a stuck offer is the limit or your price), buy time in a plan's materials; hover cards stay away from other plugins' panels under the mouse
