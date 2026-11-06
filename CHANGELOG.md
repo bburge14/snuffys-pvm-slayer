@@ -2,6 +2,10 @@
 
 Each version's changes, newest first.
 
+## 1.3.0 (2026-11-05)
+
+- Planner: with the Skilling Helper running and the plan linked to your goal, the milestone you're on is timed at your own XP/hr as the tracker counts it while you train (45.5K/hr yours; Rate from: your XP/hr now), shared live between the plugins (PluginMessage xp-rate); the Planner still shows no rate of its own
+
 ## 1.2.0 (2026-11-04)
 
 - Settings: names and choices fit the sidebar (shorter labels and names, saved keys unchanged), and the settings test now lays out each plugin's panel at the sidebar's width and fails on anything cut short
